@@ -1,4 +1,4 @@
-<span><small>Hi there!<br/> </small><em><b>I'm Bala</b></em></span>
+<span><small>Hi there!</small><br/><em><b>I'm Bala Ganesh</b></em></span>
 
 <!--
 **BalaGanesh5/BalaGanesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
