@@ -12,27 +12,7 @@
 - 💬 Ask me about **react, Appian, React Native**
 
 - 📫 How to reach me **balaganesh405@gmail.com**
-name: DevCard
 
-permissions:
-  contents: write
-
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  devcard:
-    runs-on: ubuntu-latest
-    steps:
-      - name: devcard
-        uses: dailydotdev/action-devcard@2.0.2
-        with:
-          devcard_id: ${{ secrets.DEVCARD_ID }}
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bala-ganesh-bg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bala-ganesh-bg" height="30" width="40" /></a>
