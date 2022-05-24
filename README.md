@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/BalaGanesh9"><img src="https://api.daily.dev/devcards/3a9428b3024a472d9e69da738cb807a0.png?r=cdp" width="400" alt="Bala Ganesh's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Bala Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
