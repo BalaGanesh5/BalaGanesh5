@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Bala Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **React, React Native**
+- 🔭 I’m currently working on **Appian,ReactJs**
 
-- 🌱 I’m currently learning **Appian, React ThreeFiber,Web3.js**
+- 🌱 I’m currently learning **Appian, React ThreeFiber, Web3.js**
 
 - 👯 I’m looking to collaborate on **web3.js**
 
