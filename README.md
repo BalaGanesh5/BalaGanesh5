@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Blockchain**
 
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React, React Native, Next.js**
 
 - 📫 How to reach me **balaganesh405@gmail.com**
 
