@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ReactJs, React Native**
 
-- 🌱 I’m currently learning **React ThreeFiber, Web3.js, node.js**
+- 🌱 I’m currently learning **React ThreeFiber, Web3.js, node.js, NEXT.js**
 
 - 👯 I’m looking to collaborate on **web3.js**
 
